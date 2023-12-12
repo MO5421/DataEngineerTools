@@ -54,11 +54,12 @@ Protego = "*"
 PyDispatcher = "*"
 PyHamcrest = "*"
 pyOpenSSL = "*"
-Scrapy = "*"
 Twisted = "*"
 Werkzeug = "*"
 WTForms = "*"
 jupyter = "*"
+selenium = "==4.0"
+scrapy = "*"
 
 [dev-packages]
 
